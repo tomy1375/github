@@ -1,4 +1,10 @@
 html{
     background: black;
     color: aliceblue;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+img{
+    max-width: 100%;
 }
